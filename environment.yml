@@ -1,2 +1,3 @@
+
 dependencies:
-- ipywidgets=4.1.0
+- ipywidgets=4.1.0=py33_0
