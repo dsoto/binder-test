@@ -1,4 +1,5 @@
 name: binder
 
 dependencies:
-    - ipywidgets
+  - jupyter
+  - ipywidgets
